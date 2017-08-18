@@ -1,0 +1,11 @@
+source 'https://supermarket.chef.io'
+cookbook 'apt'
+cookbook 'java'
+cookbook 'idea', '= 0.2.1'
+cookbook 'eclipse', '~> 0.1.1'
+cookbook 'maven', '~> 5.0.1'
+cookbook 'google-chrome', '~> 0.0.1'
+cookbook 'sublime-text', '~> 0.1.5'
+cookbook 'ruby-install', '~> 0.2.0'
+cookbook 'nodejs', '~> 4.0.0'
+metadata
