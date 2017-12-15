@@ -8,7 +8,7 @@
 - Sublime Text
 
 ## Instructions
-1. Download & Install ChefDk (requires Chef Development Kit Version: 1.1.16), Vagrant and VirtualBox
+1. Download & Install ChefDk (requires Chef Development Kit Version: 1.1.16), Vagrant 1.9.1 and VirtualBox 5.1
 2. Clone this cookbook
 3. Run ``` kitchen create ``` and ``` kitchen converge ```
 
